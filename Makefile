@@ -1,13 +1,19 @@
 
-CONTAINER_NAME=plotfunction-website
-IMAGE_NAME=plotfunction/website
+CONTAINER_NAME=mathsstats-website
+IMAGE_NAME=mathsstats/website
 
-start: build
+run:
+	bundle exec jekyll serve --incremental
+
+prepare:
+	bundle install
+
+container-start: build
 	docker run -it -v $(PWD):/var/www/html -p 8000:8000 --name $(CONTAINER_NAME) $(IMAGE_NAME)
 
-stop:
-	docker stop plotfunction/website
+container-stop:
+	docker stop mathsstats/website
 
-build:
+container-build:
 	docker build -t $(CONTAINER_NAME) .
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Case-control study
+grand_parent: Statistics
 parent: Medical Statistics
 usemathjax: false
 ---

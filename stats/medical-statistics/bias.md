@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bias
+grand_parent: Statistics
 parent: Medical Statistics
 usemathjax: false
 ---

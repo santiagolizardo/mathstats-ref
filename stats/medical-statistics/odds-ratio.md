@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Odds Ratio
+grand_parent: Statistics
 parent: Medical Statistics
 nav_exclude: false
 usemathjax: true

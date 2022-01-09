@@ -1,7 +1,7 @@
 title: "Maths & Stats"
 description: "Mathematics and Statistics reference"
 
-color_scheme: "light"
+color_scheme: "dark"
 remote_theme: pmarsceill/just-the-docs
 
 plugins:

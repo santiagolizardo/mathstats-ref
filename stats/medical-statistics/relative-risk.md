@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Relative Risk
+grand_parent: Statistics
 parent: Medical Statistics
 nav_exclude: false
 usemathjax: true

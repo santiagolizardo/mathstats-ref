@@ -1,6 +1,7 @@
 ---
 parent: Statistics
 title: Medical Statistics
+has_children: true
 ---
 
 # {{ page.title }}

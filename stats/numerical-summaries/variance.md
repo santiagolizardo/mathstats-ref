@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Variance 
+grand_parent: Statistics
 parent: Numerical summaries
 nav_exclude: false
 usemathjax: true

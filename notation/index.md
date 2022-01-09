@@ -1,6 +1,6 @@
 ---
-parent: Statistics
 title: Notation
+has_children: true
 ---
 
 # {{ page.title }}

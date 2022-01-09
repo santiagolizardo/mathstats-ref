@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cohort Study
+grand_parent: Statistics
 parent: Medical Statistics
 usemathjax: false
 ---
